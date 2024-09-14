@@ -1,1 +1,3 @@
 Adding content inside is file for Task 3
+Line 2 from Person 1.
+Line 3 from Person 1.
